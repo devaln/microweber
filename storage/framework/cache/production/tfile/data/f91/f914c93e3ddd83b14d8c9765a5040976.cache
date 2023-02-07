@@ -1,0 +1,15 @@
+000046a:1:{s:4:"time";s:21:"0.13703600 1675767534";}1675827534a:9:{s:2:"id";i:119;s:10:"updated_at";s:19:"2022-04-19 12:13:55";s:10:"created_at";s:19:"2022-04-19 12:13:55";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:36:"layout-skin-1-layouts-20220419121345";s:5:"value";s:773:"
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-12 allow-drop element" id="element_1650370406404">
+                <div class="mw-row" id="element_row_1650370406396" style="height: auto;">
+                    <div class="mw-col" style="width: 100%; height: auto;">
+                        <div class="mw-col-container element" id="element_1650370406399">
+                            <div class="mw-empty-element element" id="element_1650370406393"><module class="module mt-ready module-shop-products" data-mw-title="Products" data-type="shop/products" id="shop-products-20220419121350"></module></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+";}
